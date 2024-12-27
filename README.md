@@ -1,8 +1,3 @@
-
-You can resize the images in the README to make them more suitable for display. Here's an updated version with smaller images:
-
-markdown
-Copy code
 # React Native Todo App
 
 A simple Todo application built with React Native that allows users to add and delete tasks.
@@ -13,6 +8,6 @@ A simple Todo application built with React Native that allows users to add and d
 - Delete tasks
 
 ## Screenshots
-![Create New Task](./screenshots/create-new-task.png | width=300)
-![Home Page](./screenshots/home-page.png | width=300)
-![Task Added](./screenshots/task-added.png | width=300)
+<img src="./screenshots/create-new-task.png" width="300" />
+<img src="./screenshots/home-page.png" width="300" />
+<img src="./screenshots/task-added.png" width="300" />
