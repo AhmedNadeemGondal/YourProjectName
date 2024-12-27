@@ -8,11 +8,13 @@ A simple Todo application built with React Native that allows users to add and d
 - Delete tasks
 
 ## Screenshots
-Homepage
+
+### Homepage
 <img src="./screenshots/home-page.png" width="300" />
 
-Create new task
+### Create New Task
 <img src="./screenshots/create-new-task.png" width="300" />
 
-Task added
+### Task Added
 <img src="./screenshots/task-added.png" width="300" />
+
